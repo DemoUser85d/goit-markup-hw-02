@@ -1,0 +1,37 @@
+.body {
+    background-color: #FFFFFF;
+    color: #757575;
+
+} 
+ul {
+    list-style: none;
+}
+
+. header-logo {
+    color: #000000
+    ;
+}
+
+/*----білий колір #FFFFFF---- */
+/*====колір тексту заголовка #212121==== */
+/*----колір тексту #757575 ----*/
+/*----акцент 2196F3---*/
+/* ---додатковий колір фону #F5F4FA
+ */
+
+ .header {
+}
+.header-nav {
+}
+.header-logo {
+}
+.nav-list {
+}
+.nav-item {
+}
+.header-contacts-list {
+}
+.header-contacts-item {
+}
+.header-contacts-link {
+}
